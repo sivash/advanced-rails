@@ -1,0 +1,12 @@
+1) https://github.com/sivash/advanced-rails
+2) NA 
+3) 5 hours	
+	1.5 hours in class on set up and part 1.
+	1.5 hours part 1 and debugging and sent email about our problems
+	1.5 hour finishing part 1 in addition to cucumber tests and rspec tests
+	.5 hour on part 2 and adding required code into features. 
+
+4) the R spec tests were the most difficult portion of this assignment.
+5) We learned the most from the rSpec test because were able to have full completion. 
+6) We learned the least regarding how to implement the login and web steps
+7) We need at least 7+ hours for this assignment. This is a long assignment.
